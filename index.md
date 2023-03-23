@@ -24,6 +24,8 @@ It is hoped the day will raise awareness, emphasise the importance of the sound 
 
 We have listed below some suggestions on how to make the most of the day, including hymns, readings, prayers and music. If you want to any to the list please send a link to the relevant site to <pro@cccbr.org.uk>  
 
+Please do let us know if you will be taking part so we can add you to our map. Use the contact form next to the map at the bottom of this page.
+
 ## How to be involved 
 
 Here are a few suggestions of how to get involved. We'd love to hear what other ideas you have, contact <pro@cccbr.org.uk>  
@@ -141,6 +143,8 @@ There are a variety of gifts, from one Spirit; or a variety of members which mak
 -   Carillon de Westminster, Louis Vierne, organ, fantasia on the Westminster Chimes
 
 ## Map
+
+If you would like your location added to the map please use this [form](/details) to submit your details.  Please allow 24-48 hours for the map to be updated.
 
 <iframe src="https://www.google.com/maps/d/u/2/embed?mid=1sULnY1y03DjilzDQE6rGFyJ8eoyK7cw&ehbc=2E312F" width="640" height="480"></iframe>
 
