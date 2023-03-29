@@ -146,5 +146,5 @@ There are a variety of gifts, from one Spirit; or a variety of members which mak
 
 If you would like your location added to the map please use this [form](/details) to submit your details.  Please allow 24-48 hours for the map to be updated.
 
-<iframe src="https://www.google.com/maps/d/u/2/embed?mid=1sULnY1y03DjilzDQE6rGFyJ8eoyK7cw&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1cOcPMumj6fthu5FWt1soujKgZDknHUY&ehbc=2E312F" width="640" height="480"></iframe>
 
