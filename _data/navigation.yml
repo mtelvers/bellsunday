@@ -9,5 +9,7 @@ main:
     url: /#readings--poetry
   - title: "Music"
     url: /#music-for-choir-andor-organ
+  - title: "Gallery"
+    url: /#gallery
   - title: "Map"
     url: /#map

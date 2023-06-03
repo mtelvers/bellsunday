@@ -3,12 +3,21 @@ layout: splash
 title: 
 entries_layout: grid
 classes: wide
+gallery:
+  - url: /media/2023-parish-of-moseley.jpg
+    image_path: /media/2023-parish-of-moseley.jpg
+    alt: ""
+    title: "Parish of Moseley, Birmingham"
+  - url: /media/2023-st-alphege-solihull.jpg
+    image_path: /media/2023-st-alphege-solihull.jpg
+    alt: ""
+    title: "Walking Plain Hunt, St Alphege, Solihull"
 ---
 
-# BELL SUNDAY 14th May 2023 
+# BELL SUNDAY 12th May 2024 
 {: .very-large .align-center}
 
-![](/media/bell-sunday.jpg){: .align-center .width-half}
+![](/media/bell-sunday-2024.png){: .align-center .width-half}
 
 St Dunstan is known as the Patron Saint of Bellringers due to his experimentation in early forging of bells in the 900'sCE.  It is this reason we have chosen the nearest Sunday to his feast day (19th May) to introduce Bell Sunday; a day where the contribution of bells and Bellringers to the life of the Church is recognised. 
 
@@ -26,6 +35,8 @@ We have listed below some suggestions on how to make the most of the day, includ
 
 Please do let us know if you will be taking part so we can add you to our map. Use the contact form next to the map at the bottom of this page.
 
+If you would like to explore and understand the relationship between bell ringing and the church further, a new book from the Guild of Clerical Ringers, The Voice of the Church, offers some reflections on the place of ringing in the church and suggests some ways that ringers and church communities could work together to help, support and encourage each other.  The book is available to purchase from the Ringing World [Shop](https://www.ringingworld.co.uk/purchase/shop/the-voice-of-the-church.html).
+
 ## How to be involved 
 
 Here are a few suggestions of how to get involved. We'd love to hear what other ideas you have, contact <pro@cccbr.org.uk>  
@@ -38,12 +49,15 @@ Here are a few suggestions of how to get involved. We'd love to hear what other 
 - Junior Church could play handbells, or have a go at chiming a bell 
 - Ringers support the after service refreshments and provide tasty bell shaped goodies 
 - Articles in the parish magazine 
+- [Download](/media/bell-sunday-poster-customisable.pdf) a customisable poster to help advertise your event
 
 When copying hymns, songs lyrics, music, poetry, readings etc for printed service sheets, please ensure the appropriate copyright requirements are followed. 
 
 ## Hymns / Songs
 
-Here are few suggestions of suitable hymns: 
+[Bells are Ringing](/media/bells-are-ringing.pdf) was especially written for *Bell Sunday* by _Clare le Marie_ and is intended to portray the sound of bells and how often they are rung for different events in our lives.
+
+Here are few other suggestions of suitable hymns: 
 
 - [Let bells peal forth](http://www.songlyrics.com/choir-of-girton-college/let-bells-peal-forth-lyrics/) tune: WOODLANDS written for the dedication of bells at Durham Cathedral and published in NEH 
 - [Ring out, ye bells below](https://www.thecompletehymn.co.uk/PDF/Ringers_Hymn.pdf) tune: TAVISTOCK (or e.g. DARWALL'S 148TH)  written for the Devon Association 
@@ -135,6 +149,7 @@ There are a variety of gifts, from one Spirit; or a variety of members which mak
 - [The Song of the Bell -- Friedrich Schiller](https://archive.schillerinstitute.com/fidelio_archive/1995/fidv04n04-1995Wi/fidv04n04-1995Wi_064-friedrich_schiller_the_song_of_t.pdf) 
 - [Bell Song -- Laura Purdie Salas](https://laurasalas.com/poems-for-teachers/bell-song-poetry-friday/) 
 - [Summoned by Bells -- John Betjeman](https://austenreveries.wordpress.com/2013/02/10/poetry-for-sunday-john-betjemans-summoned-by-bells/) 
+- [Let This Darkness be a Bell Tower -- Rainer Marie Rilke, translated by Joanna Macy](https://ivonprefontaine.com/2013/03/12/sonnets-to-orpheus-ii-29/)
 
 ## Music for Choir and/or Organ
 
@@ -142,9 +157,13 @@ There are a variety of gifts, from one Spirit; or a variety of members which mak
 -   Sing Ye Faithful, Sing with Gladness, Richard Dirksen, SSAATB + organ, final verse includes repeated 'alleluia' in Queens 
 -   Carillon de Westminster, Louis Vierne, organ, fantasia on the Westminster Chimes
 
+## Gallery
+
+{% include gallery caption="2023 Bell Sunday Gallery" %}
+
 ## Map
 
 If you would like your location added to the map please use this [form](/details) to submit your details.  Please allow 24-48 hours for the map to be updated.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1cOcPMumj6fthu5FWt1soujKgZDknHUY&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1cOcPMumj6fthu5FWt1soujKgZDknHUY&ehbc=2E312F" width="800" height="600"></iframe>
 
