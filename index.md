@@ -8,10 +8,26 @@ gallery:
     image_path: /media/2023-parish-of-moseley.jpg
     alt: ""
     title: "Parish of Moseley, Birmingham"
+  - url: /media/2023-the-junction-at-st-alphege-solihull.jpg
+    image_path: /media/2023-the-junction-at-st-alphege-solihull.jpg
+    alt: ""
+    title: "The Junction at St Alphege, Solihull"
   - url: /media/2023-st-alphege-solihull.jpg
     image_path: /media/2023-st-alphege-solihull.jpg
     alt: ""
+    title: "St Alphege, Solihull"
+  - url: /media/2023-walking-plain-hunt-st-alphege-solihull.jpg
+    image_path: /media/2023-walking-plain-hunt-st-alphege-solihull.jpg
+    alt: ""
     title: "Walking Plain Hunt, St Alphege, Solihull"
+  - url: /media/2023-cakes-at-st-michaels-kirkham.jpg
+    image_path: /media/2023-cakes-at-st-michaels-kirkham.jpg
+    alt: ""
+    title: "Cakes at St Michael's, Kirkham"
+  - url: /media/2023-old-brampton-big-bell-centenary.jpg
+    image_path: /media/2023-old-brampton-big-bell-centenary.jpg
+    alt: ""
+    title: "Old Brampton Bell Bell Centenary"
 ---
 
 # BELL SUNDAY 12th May 2024 
