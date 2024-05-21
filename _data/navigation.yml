@@ -9,7 +9,15 @@ main:
     url: /#readings--poetry
   - title: "Music"
     url: /#music-for-choir-andor-organ
+  - title: "Stories"
+    url: /#stories
   - title: "Gallery"
     url: /#gallery
   - title: "Map"
     url: /#map
+
+stories:
+  - title: Holy Trinity, Westbury
+    url: /stories/westbury.html
+  - title: St Peter's, Leckhampton
+    url: /stories/leckhampton.html

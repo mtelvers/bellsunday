@@ -4,6 +4,10 @@ title:
 entries_layout: grid
 classes: wide
 gallery:
+  - url: /media/2023-old-brampton-big-bell-centenary.jpg
+    image_path: /media/2023-old-brampton-big-bell-centenary.jpg
+    alt: ""
+    title: "Old Brampton Bell Bell Centenary"
   - url: /media/2023-parish-of-moseley.jpg
     image_path: /media/2023-parish-of-moseley.jpg
     alt: ""
@@ -30,7 +34,7 @@ gallery:
     title: "Old Brampton Bell Bell Centenary"
 ---
 
-# BELL SUNDAY 12th May 2024 
+# BELL SUNDAY 18th May 2025 
 {: .very-large .align-center}
 
 ![](/media/bell-sunday-2024.png){: .align-center .width-half}
@@ -41,7 +45,7 @@ In 2024 St Dunstan’s Day falls conveniently on Sunday, 19th May; however, as t
 
 With co-operation between Church and Bellringers it may be possible to be involved in a Service on the day, from reading lessons, giving a talk instead of a Sermon, playing handbells, singing bell related hymns, readings and prayers, all associated with bells and Bellringers. Even bell-shaped biscuits served with after Service refreshments. 
 
-We are putting together a series of resources to assist with the arrangements - suggestions on how to take an active part in Services or using it as an opportunity to demonstrate bellringing and show people the bells, even use it for a bit of cheeky recruitment. 
+We have put together resources to assist with the arrangements - suggestions on how to take an active part in Services or using it as an opportunity to demonstrate bellringing and show people the bells, even use it for a bit of cheeky recruitment.
 
 It is hoped the day will raise awareness, emphasise the importance of the sound of bells in our Communities and how it can help bring Church and Community together, strengthening relationships between Clergy and Bellringers. 
 
@@ -118,6 +122,8 @@ Oher hymns not written specifically for ringing: 
 -   [Long ago, prophets knew](https://hymnary.org/hymn/NEH1985/10) often sung at Advent/Christmas, but could be used at any time 
 -   [Hear the call of the kingdom](https://www.stuarttownend.co.uk/song/hear-the-call-of-the-kingdom/) more contemporary song by Ketty and Townend 
 
+A new worship song written for the 50th anniversary of the Suffolk Historic Churches Trust. (Although the occasion is a little niche, the song itself is quite generally applicable.) Listen [here](https://www.youtube.com/watch?v=5KVWZDCm7gI)
+
 ## Bible Readings with ideas for reflection or preaching
 
 ### Readings Relating to Bells and their Sound
@@ -174,6 +180,11 @@ There are a variety of gifts, from one Spirit; or a variety of members which mak
 -   [In the City of the Lord, John Harper](https://www.rscmshop.com/flipbooks/s0181/s0181.html#p=40), SATB + organ, text from the antiphon for the blessing of a bell from the Bangor Pontifical (c.1300) 
 -   Sing Ye Faithful, Sing with Gladness, Richard Dirksen, SSAATB + organ, final verse includes repeated 'alleluia' in Queens 
 -   Carillon de Westminster, Louis Vierne, organ, fantasia on the Westminster Chimes
+
+## Stories
+
+* [Holy Trinity, Westbury](/stories/westbury.html)
+* [St Peter's, Leckhampton](/stories/leckhampton.html)
 
 ## Gallery
 
