@@ -83,8 +83,10 @@ Here are few other suggestions of suitable hymns: 
 
 - [Let bells peal forth](http://www.songlyrics.com/choir-of-girton-college/let-bells-peal-forth-lyrics/) tune: WOODLANDS written for the dedication of bells at Durham Cathedral and published in NEH 
 - [Ring out, ye bells below](https://www.thecompletehymn.co.uk/PDF/Ringers_Hymn.pdf) tune: TAVISTOCK (or e.g. DARWALL'S 148TH)  written for the Devon Association 
-- [Unchanging God, who livest](https://anzab.org.au/info/BelfryPraise2020.pdf) tune: BELFRY PRAISE (or e.g. AURELIA) published by A&M as the 'bellringer's hymn' 
+- [Unchanging God, who livest](https://anzab.org.au/info/BelfryPraise2020.pdf) tune: BELFRY PRAISE (or e.g. AURELIA) published by A&M as the 'bellringer's hymn'
 - [Ring! Ringers, Ring!](https://www.emily-feldberg-music.uk/downloads/bell-ringers-hymn-score.pdf) tune: HAGDYKE written in 2019 for the Dunster Branch of the Bath and Wells Association 
+- [The bells 'cross English Fields](/media/the-bells-across-english-fields.pdf) tune: ST ANNE (Croft) (aka O God our help in ages past) written by Neal Dodge
+- [Our mighty bells](/media/our-mighty-bells.pdf) tune: TRURO (Williams) (aka Jesus shall reign) written by Neal Dodge
 
 Other hymns available from <https://www.ringing.info/hymns.html>  
 
