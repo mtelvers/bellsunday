@@ -34,14 +34,14 @@ gallery:
     title: "Old Brampton Bell Bell Centenary"
 ---
 
-# BELL SUNDAY 18th May 2025 
+# BELL SUNDAY 17th May 2026 
 {: .very-large .align-center}
 
 ![](/media/bell-sunday-2024.png){: .align-center .width-half}
 
 St Dunstan is known as the Patron Saint of Bellringers due to his experimentation in early forging of bells in the 900’sCE.  It is this reason we have chosen a Sunday near his feast day (19th May) that does not conflict with any other significant days in the Church calendar to promote Bell Sunday; a day where the contribution of bells and Bellringers to the life of the Church is recognised.
 
-In 2025, St Dunstan’s Day falls on Monday, 19th May; therefore, we will hold Bell Sunday on the nearest Sunday, 18th May.
+In 2026, St Dunstan’s Day falls on Tuesday, 19th May; therefore, we will hold Bell Sunday on the nearest Sunday, 17th May.
 
 With co-operation between Church and Bellringers it may be possible to be involved in a Service on the day, from reading lessons, giving a talk instead of a Sermon, playing handbells, singing bell related hymns, readings and prayers, all associated with bells and Bellringers. Even bell-shaped biscuits served with after Service refreshments. 
 
