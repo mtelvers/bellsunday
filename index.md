@@ -39,7 +39,7 @@ gallery:
 
 ![](/media/bell-sunday-2024.png){: .align-center .width-half}
 
-St Dunstan is known as the Patron Saint of Bellringers due to his experimentation in early forging of bells in the 900’sCE.  It is this reason we have chosen a Sunday near his feast day (19th May) that does not conflict with any other significant days in the Church calendar to promote Bell Sunday; a day where the contribution of bells and Bellringers to the life of the Church is recognised.
+St Dunstan is known as the Patron Saint of Bellringers due to his experimentation in early forging of bells in the 900’s AD.  It is this reason we have chosen a Sunday near his feast day (19th May) that does not conflict with any other significant days in the Church calendar to promote Bell Sunday; a day where the contribution of bells and Bellringers to the life of the Church is recognised.
 
 In 2026, St Dunstan’s Day falls on Tuesday, 19th May; therefore, we will hold Bell Sunday on the nearest Sunday, 17th May.
 
